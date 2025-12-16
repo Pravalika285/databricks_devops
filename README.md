@@ -1,2 +1,2 @@
-# databricks_devops
-My first repository on GitHub
+# Databricks DevOps Training
+My first push and commit.
